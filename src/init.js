@@ -2,8 +2,8 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBdXOoEq_0MsaOch3i6DPkm43q7KkFmSi4",
-  authDomain: "carti-2b003.firebaseapp.com",
+  apiKey: "AIzaSyBdXOoEq_Pkm43q7Kk3i6DFmSi4",
+  authDomain: "carti-2b007.firebaseapp.com",
   projectId: "carti-2b003",
   storageBucket: "carti-2b003.appspot.com",
   messagingSenderId: "106980953060",
