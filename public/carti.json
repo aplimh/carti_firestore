@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "src": "imagini/harry_potter.png",
+      "titlu": "Harry Potter Si Piatra Filosofala",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do...",
+      "autpret": "J.K. Rowling, pret: 30.32 Lei"
+    },
+    {
+      "id": 2,
+      "src": "imagini/coraline.png",
+      "titlu": "Coraline",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do...",
+      "autpret": "Neil Gaiman, pret: 27.37 Lei"
+    },
+    {
+      "id": 3,
+      "src": "imagini/calutul.png",
+      "titlu": "Calutul alb",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do...",
+      "autpret": "Elizabeth Goudge, pret: 23.4 Lei"
+    },
+    {
+      "id": 4,
+      "src": "imagini/unurs.png",
+      "titlu": "Un urs pe nume Paddington",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do...",
+      "autpret": "Michael Bond, pret: 29.81 Lei"
+    }
+  ]
+  
